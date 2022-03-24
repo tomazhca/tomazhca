@@ -3,7 +3,6 @@ Let me introduce myself: I'm Tom Henrique 👋
 - 🔭 I’m currently working on backend using Java on Spring
 - 🌱 I’m currently learning Spring
 - 👶🏽 I'm looking for an opportunity to start working with these tools. I'm a novice developer
-- 📫 How to contact me: tomazhca@gmail.com
 - 👨🏽 Pronouns: he/him
 
 ##
